@@ -5,7 +5,7 @@ public class Animal {
 		
 		System.out.println("Chức năng 1 - Bảo làm");
 System.out.println("Chức năng 2 - Đăng làm");
-
+System.out.println("Chức năng 3-cương làm");
 	}
 
 }
